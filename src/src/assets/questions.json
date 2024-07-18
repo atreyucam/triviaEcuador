@@ -210,104 +210,96 @@
 	],
 	"Geography": [
 		{
-			"question": "What is the capital city of Australia?",
-			"answers": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-			"correctAnswer": "Canberra"
+			"question": "¿Cuál es el volcán ubicado en el centro de la Sierra ecuatoriana?",
+			"answers": ["Cotopaxi", "Tungurahua", "Chimborazo", "Antisana"],
+			"correctAnswer": "Chimborazo"
+		},
+		
+		{
+			"question": "¿Qué clima predominante se encuentra en la Sierra?",
+			"answers": ["Tropical", "Húmero", "Templado y frío", "Seco"],
+			"correctAnswer": "Templado y frío"
 		},
 		{
-			"question": "How many stars appear on the flag of the People's Republic of China?",
-			"answers": ["4", "5", "6", "3"],
-			"correctAnswer": "5"
+			"question": "¿Qué lenguas indígenas se hablan en la Sierra?",
+			"answers": ["Quechua", "Shuar", "Inglés", "Español"],
+			"correctAnswer": "Quechua"
 		},
 		{
-			"question": "What continent is Saudi Arabia on?",
-			"answers": ["Asia", "Africa", "Europe", "South America"],
-			"correctAnswer": "Asia"
-		},
-		{
-			"question": "What is the name of the official language in China?",
-			"answers": ["Mandarin", "Cantonese", "Hokkien", "Hakka"],
-			"correctAnswer": "Mandarin"
-		},
-		{
-			"question": "Which of these European countries is further west?",
-			"answers": ["Spain", "Italy", "Greece", "Germany"],
-			"correctAnswer": "Spain"
-		},
-		{
-			"question": "How many oceans are there on Earth?",
-			"answers": ["5", "6", "7", "8"],
-			"correctAnswer": "5"
-		},
-		{
-			"question": "What is the capital of Colombia?",
-			"answers": ["Bogotá", "Medellín", "Cali", "Barranquilla"],
-			"correctAnswer": "Bogotá"
-		},
-		{
-			"question": "Which country is the smallest in the world",
-			"answers": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
-			"correctAnswer": "Vatican City"
-		},
-		{
-			"question": "What is the largest country in Africa by land area?",
-			"answers": ["Algeria", "Sudan", "Libya", "Congo"],
-			"correctAnswer": "Algeria"
-		},
-		{
-			"question": "What is the highest mountain in America?",
+			"question": "¿Qué parque nacionales se encuentran en la Sierra?",
 			"answers": [
-				"Mount Denali",
-				"Mount Logan",
-				"Mount Saint Elias",
-				"Pico de Orizaba"
+				"Parque Nacional Machalilla", 
+				"Parque Nacional Sangay", 
+				"Parque Nacional Cerro Blanco", 
+				"Reserva Ecológica Manglares Churute"
 			],
-			"correctAnswer": "Mount Denali"
+			"correctAnswer": "Parque Nacional Sangay"
+		},
+
+		{
+			"question": "¿Cuál es la principal zona agrícola de la Sierra?",
+			"answers": ["Sierra Sur", "Sierra Central", "Sierra Norte", "Esmeraldas"],
+			"correctAnswer": "Sierra Central"
 		},
 		{
-			"question": "Which city is located both in Europe and Asia?",
-			"answers": ["Istanbul", "Moscow", "Kiev", "Nicosia"],
-			"correctAnswer": "Istanbul"
+			"question": "¿Qué provincia conforma la región Sierra?",
+			"answers": ["Pastaza", "Los Ríos", "Azuay", "Tena"],
+			"correctAnswer": "Azuay"
+		},
+
+		{
+			"question": "¿A qué provincia se le conoce como la tierra de las flores y las frutas?",
+			"answers": ["Riobamba", "Cañar", "Ambato", "Guaranda"],
+			"correctAnswer": "Ambato"
 		},
 		{
-			"question": "What is the name of the world's largest reef system, located in Australia?",
+			"question": "¿Cómo se llama el famoso mercado indígena en Otavalo?",
+			"answers": ["Plaza de los Ponchos", "Atuntaqui", "San Juan", "San Antonio"],
+			"correctAnswer": "Plaza de los Ponchos"
+		},
+
+
+		{
+			"question": "¿Qué cordillera atraviesa la región Sierra?",
 			"answers": [
-				"Great Barrier Reef",
-				"Belize Barrier Reef",
-				"Mesoamerican Barrier Reef",
-				"Andros Barrier Reef"
+				"La cordillera de las Montañas Rocosas ", 
+				"La cordillera de los Alpes", 
+				"La cordillera de los Andes", 
+				"La cordillera de los Pirineos"
 			],
-			"correctAnswer": "Great Barrier Reef"
+			"correctAnswer": "La cordillera de los Andes"
 		},
 		{
-			"question": "Which river is the longest in the world?",
-			"answers": ["Nile", "Amazon", "Yangtze", "Mississippi"],
-			"correctAnswer": "Amazon"
+			"question": "¿Cuál es las principal actividad económica de la Sierra?",
+			"answers": ["Explotación de crudo", "Pesca", "Minería", "Agricultura"],
+			"correctAnswer": "Agricultura"
+		},
+
+
+		{
+			"question": "En qué provincia se encuentra el punto más alto de Ecuador",
+			"answers": ["Guayas", "Chimborazo", "Cotopaxi", "Quevedo"],
+			"correctAnswer": "Chimborazo"
 		},
 		{
-			"question": "Which country is the largest by land area?",
-			"answers": ["Russia", "Canada", "China", "United States"],
-			"correctAnswer": "Russia"
+			"question": "¿Cuál es el principal lago en la Sierra de Ecuador?",
+			"answers": ["San Pablo", "Yambo", "Colta", "Aguarico"],
+			"correctAnswer": "San Pablo"
 		},
 		{
-			"question": "How many states are part of the United States?",
-			"answers": ["50", "51", "48", "53"],
-			"correctAnswer": "50"
+			"question": "¿Cuál es el principal producto de exportación en la Sierra?",
+			"answers": ["Papas", "Rosas", "Mariscos", "Ropa"],
+			"correctAnswer": "Rosas"
 		},
 		{
-			"question": "Which of these countries is not in Europe?",
-			"answers": ["Georgia", "Moldova", "Armenia", "Azerbaijan"],
-			"correctAnswer": "Armenia"
+			"question": "¿Qué ciudad es conocida como la Atenas del Ecuador?",
+			"answers": ["Imbabura", "Cuenca", "Manta", "Zamora"],
+			"correctAnswer": "Cuenca"
 		},
 		{
-			"question": "What is the official currency of India?",
-			"answers": ["Rupee", "Ruble", "Rial", "Real"],
-			"correctAnswer": "Rupee"
-		},
-		{
-			"question": "In which country is Mount Everest located?",
-			"answers": ["Nepal", "China", "India", "Pakistan"],
-			"correctAnswer": "Nepal"
+			"question": "¿Qué recurso es esencial para la agricultura en la Sierra?",
+			"answers": ["Abono", "agua de deshielo", "Papel", "Gasolina"],
+			"correctAnswer": "Agua de deshielo"
 		}
 	],
 	"Science": [

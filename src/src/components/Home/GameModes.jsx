@@ -68,7 +68,7 @@ const gameModes = [
   {
     icon: <BiTimeFive className='text-3xl' />,
     buttonText: 'Recompensas',
-    description: 'Complete tasks to earn rewards! You can use wildcards',
+    description: '¡Completa tareas para ganar recompensas! Puedes usar comodines.',
     modalTitle: 'Recompensas del Juego',
     modalContent: (
       <>
@@ -119,7 +119,7 @@ const gameModes = [
   {
     icon: <FaTrophy className='text-3xl' />,
     buttonText: 'Ranking',
-    description: 'Check your ranking and compete with others!',
+    description: '¡Revisa tu ranking y compite con otros!',
     modalTitle: 'Ranking del Juego',
     modalContent: (
       <>
@@ -206,7 +206,7 @@ export default function GameModes() {
 
   return (
     <section className='lg:max-w-6xl mx-auto lg:col-start-1 lg:col-end-2 px-8 py-6 flex flex-col justify-center bg-[url("/bg-gamemodes.svg")] text-slate-900 w-full'>
-      <h2 className='text-2xl mb-4 font-medium'>Game modes</h2>
+      <h2 className='text-2xl mb-4 font-medium'>Parámetros del Juego</h2>
       <nav>
         <ul className='flex flex-col sm:flex-row justify-center gap-5'>
           <li className='bg-neutral-300 max-w-sm md:max-w-none bg-opacity-30 backdrop-blur-[2px] rounded p-5 hover:scale-[1.03] transition-all hover:backdrop-blur-0 hover:bg-opacity-100 hover:bg-white shadow-sm mx-auto'>

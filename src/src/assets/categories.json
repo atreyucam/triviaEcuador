@@ -1,23 +1,23 @@
 [
-	
 	{
 		"id": "ab",
 		"name": "Entertainment",
-		"color": "#f94e4e"
+		"color": "#fbff00e6"
+		
 	},
 	{
 		"id": "ac",
 		"name": "Technology",
-		"color": "#685af5"
+		"color": "#1bff00c7"
 	},
 	{
 		"id": "ad",
 		"name": "Geography",
-		"color": "#3ce956"
+		"color": "#ff7b1ede"
 	},
 	{
 		"id": "ae",
 		"name": "Art",
-		"color": "#307de7"
+		"color": "#17db8abd"
 	}
 ]

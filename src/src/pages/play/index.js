@@ -42,9 +42,8 @@ export default function Play () {
 					{`
 					body {
 						background: url(play_bg.webp) center;
-						background-size: 100% 100%;
+						background-size: 3% 2%;
 					}
-
 					@media (max-width: 1030px) {
 						body {
 							background-size: auto 100%;

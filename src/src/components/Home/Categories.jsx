@@ -117,7 +117,7 @@ export default function Categories() {
           </li>
         ))}
         <li className='col-span-2 sm:col-span-3 md:col-span-4 flex justify-center'>
-          <Image src="/espoch.png" alt="Espoch Logo" width={300} height={300} />
+          <img src="/espoch.png" alt="Espoch Logo" width={300} height={300} />
         </li>
       </ul>
 

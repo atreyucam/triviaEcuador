@@ -108,7 +108,7 @@
 	],
 	"Entertainment": [
 		{
-			"question": "What is the name of the clown in the movie \"It\"?",
+			"question": "Por qué el Lucho es rico?",
 			"answers": ["Pennywise", "Bozo", "Krusty", "Joker"],
 			"correctAnswer": "Pennywise"
 		},

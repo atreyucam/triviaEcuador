@@ -107,106 +107,84 @@
 		}
 	],
 	"Entertainment": [
-		{
-			"question": "What is the name of the clown in the movie \"It\"?",
-			"answers": ["Pennywise", "Bozo", "Krusty", "Joker"],
-			"correctAnswer": "Pennywise"
-		},
-		{
-			"question": "What is the name of the fictional continent where the events of the TV series \"Game of Thrones\" take place?",
-			"answers": ["Westeros", "Essos", "Sothoryos", "Ulthos"],
-			"correctAnswer": "Westeros"
-		},
-		{
-			"question": "Who played the role of Batman in the 2008 movie \"The Dark Knight\"?",
-			"answers": [
-				"Christian Bale",
-				"Ben Affleck",
-				"George Clooney",
-				"Val Kilmer"
-			],
-			"correctAnswer": "Christian Bale"
-		},
-		{
-			"question": "What is the name of the fairy in the Disney movie \"Peter Pan\"?",
-			"answers": ["Tinker Bell", "Wendy", "Vidia", "Navi"],
-			"correctAnswer": "Tinker Bell"
-		},
-		{
-			"question": "What is the name of the tiger that appears in the movie \"Life of Pi\"?",
-			"answers": ["Richard Parker", "Tony", "Shere Khan", "Pi Patel"],
-			"correctAnswer": "Richard Parker"
-		},
-		{
-			"question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
-			"answers": [
-				"Gabriel García Márquez",
-				"Jorge Luis Borges",
-				"Isabel Allende",
-				"Octavio Paz"
-			],
-			"correctAnswer": "Gabriel García Márquez"
-		},
-		{
-			"question": "Which of these is not a race or species in the video game \"World of Warcraft\"?",
-			"answers": ["Kokiri", "Undead", "Huargen", "Troll"],
-			"correctAnswer": "Kokiri"
-		},
-		{
-			"question": "How does Alice wane for the first time in the Disney movie \"Alice in Wonderland\"?",
-			"answers": [
-				"She drinks a potion",
-				"She eats a cake",
-				"She falls down a hole",
-				"She walks through a mirror"
-			],
-			"correctAnswer": "She drinks a potion"
-		},
-		{
-			"question": "Who is the owner of Garfield in the comic strip \"Garfield\"?",
-			"answers": ["Jon Arbuckle", "Odie", "Nermal", "Liz Wilson"],
-			"correctAnswer": "Jon Arbuckle"
-		},
-		{
-			"question": "In which of these animes does the main character carry his sister in a box?",
-			"answers": [
-				"Kimetsu no Yaiba",
-				"Elfen Lied",
-				"Code Geass",
-				"Made in Abyss"
-			],
-			"correctAnswer": "Kimetsu no Yaiba"
-		},
-		{
-			"question": "Where is the weak point of the titans in the anime \"Attack on Titan\"?",
-			"answers": ["Nape", "Head", "Heart", "Back"],
-			"correctAnswer": "Nape"
-		},
-		{
-			"question": "How many puppies does Perdita give birth to in the Disney movie \"101 Dalmatians\"?",
-			"answers": ["15", "101", "99", "8"],
-			"correctAnswer": "15"
-		},
-		{
-			"question": "How many dragon balls are there in the anime \"Dragon Ball\"?",
-			"answers": ["7", "8", "6", "12"],
-			"correctAnswer": "7"
-		},
-		{
-			"question": "In which of these movies are there aliens?",
-			"answers": [
-				"The Great Wall",
-				"Big Heroes 6",
-				"Duplicity",
-				"Braveheart"
-			],
-			"correctAnswer": "The Great Wall"
-		},
-		{
-			"question": "What is the name of Misa Amane's shinigami in the anime \"Death Note\"?",
-			"answers": ["Rem", "Ryuk", "Sidoh", "Gelus"],
-			"correctAnswer": "Rem"
-		}
+		
+			{
+				"question": "¿Cuál es la ciudad más grande en la región Costa de Ecuador?",
+				"answers": ["Guayaquil", "Manta", "Portoviejo", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Cuál es el puerto más importante de la región Costa?",
+				"answers": ["Puerto de Guayaquil", "Puerto de Manta", "Puerto de Esmeraldas", "Puerto de Machala"],
+				"correctAnswer": "Puerto de Guayaquil"
+			},
+			{
+				"question": "¿Cuál es la playa más conocida en la región Costa de Ecuador?",
+				"answers": ["Salinas", "Montañita", "Atacames", "Bahía de Caráquez"],
+				"correctAnswer": "Salinas"
+			},
+			{
+				"question": "¿Qué ciudad es conocida como la 'Capital Banquera del Ecuador'?",
+				"answers": ["Guayaquil", "Quito", "Cuenca", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Qué provincia de la región Costa es conocida por su producción de cacao?",
+				"answers": ["Los Ríos", "Guayas", "Manabí", "Esmeraldas"],
+				"correctAnswer": "Los Ríos"
+			},
+			{
+				"question": "¿En qué ciudad se encuentra el malecón 2000?",
+				"answers": ["Guayaquil", "Manta", "Portoviejo", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Cuál es el principal río que atraviesa la ciudad de Guayaquil?",
+				"answers": ["Río Guayas", "Río Daule", "Río Babahoyo", "Río Esmeraldas"],
+				"correctAnswer": "Río Guayas"
+			},
+			{
+				"question": "¿Qué ciudad es famosa por su Carnaval en la región Costa?",
+				"answers": ["Salinas", "Guayaquil", "Manta", "Esmeraldas"],
+				"correctAnswer": "Salinas"
+			},
+			{
+				"question": "¿Cuál es la ciudad conocida por su producción de camarón en la región Costa?",
+				"answers": ["Machala", "Guayaquil", "Manta", "Portoviejo"],
+				"correctAnswer": "Machala"
+			},
+			{
+				"question": "¿Qué isla turística se encuentra en la región Costa de Ecuador?",
+				"answers": ["Isla de la Plata", "Isla Galápagos", "Isla Santa Cruz", "Isla San Cristóbal"],
+				"correctAnswer": "Isla de la Plata"
+			},
+			{
+				"question": "¿Cuál es la ciudad principal de la provincia de Manabí?",
+				"answers": ["Portoviejo", "Manta", "Chone", "Jipijapa"],
+				"correctAnswer": "Portoviejo"
+			},
+			{
+				"question": "¿Qué ciudad es conocida por su festival de la marimba en la región Costa?",
+				"answers": ["Esmeraldas", "Guayaquil", "Manta", "Machala"],
+				"correctAnswer": "Esmeraldas"
+			},
+			{
+				"question": "¿Cuál es la principal actividad económica de la ciudad de Manta?",
+				"answers": ["Pesca", "Agricultura", "Turismo", "Ganadería"],
+				"correctAnswer": "Pesca"
+			},
+			{
+				"question": "¿Qué ciudad costera es famosa por el surf en Ecuador?",
+				"answers": ["Montañita", "Salinas", "Atacames", "Bahía de Caráquez"],
+				"correctAnswer": "Montañita"
+			},
+			{
+				"question": "¿Cuál es el nombre de la reserva natural en la región Costa conocida por sus manglares?",
+				"answers": ["Reserva Ecológica Manglares Churute", "Parque Nacional Cajas", "Reserva de Producción Faunística Chimborazo", "Parque Nacional Yasuní"],
+				"correctAnswer": "Reserva Ecológica Manglares Churute"
+			}
+		
+		
 	],
 	"Geography": [
 		{
@@ -430,232 +408,309 @@
 		}
 	],
 	"Technology": [
-		{
-			"question": "Which company developed the programming language Java?",
-			"answers": ["Sun Microsystems", "Microsoft", "Apple", "IBM"],
-			"correctAnswer": "Sun Microsystems"
-		},
-		{
-			"question": "How many bits is a byte?",
-			"answers": ["8", "4", "16", "32"],
-			"correctAnswer": "8"
-		},
-		{
-			"question": "How many megabytes is a gigabyte?",
-			"answers": [
-				"1024",
-				"1000",
-				"100",
-				"Depends on the size of the file"
-			],
-			"correctAnswer": "1024"
-		},
-		{
-			"question": "What is the name of the open-source operating system based on the Linux kernel?",
-			"answers": ["Ubuntu", "Windows", "macOS", "Android"],
-			"correctAnswer": "Ubuntu"
-		},
-		{
-			"question": "What is the name of the first computer?",
-			"answers": ["ENIAC", "UNIVAC I", "Z1", "Colossus"],
-			"correctAnswer": "ENIAC"
-		},
-		{
-			"question": "What is the name of the web browser developed by Google?",
-			"answers": ["Chrome", "Firefox", "Safari", "Opera"],
-			"correctAnswer": "Chrome"
-		},
-		{
-			"question": "What is the name of the programming language used to create web pages?",
-			"answers": ["JavaScript", "CSS", "PhP", "Python"],
-			"correctAnswer": "JavaScript"
-		},
-		{
-			"question": "The \".WAV\" is a format of?",
-			"answers": ["Audio", "Video", "Image", "Document"],
-			"correctAnswer": "Audio"
-		},
-		{
-			"question": "What is the name of the first computer virus?",
-			"answers": ["Creeper", "Elk Cloner", "Rabbit", "Stoned"],
-			"correctAnswer": "Creeper"
-		},
-		{
-			"question": "How many laws of robotics (or Asimov's laws) are there?",
-			"answers": ["3", "4", "2", "6"],
-			"correctAnswer": "3"
-		},
-		{
-			"question": "What is the name of the first video game console?",
-			"answers": [
-				"Magnavox Odyssey",
-				"Atari 2600",
-				"Nintendo Entertainment System",
-				"Sega Genesis"
-			],
-			"correctAnswer": "Magnavox Odyssey"
-		},
-		{
-			"question": "What is the best-selling video game in history?",
-			"answers": [
-				"Minecraft",
-				"Tetris",
-				"Wii Sports",
-				"Grand Theft Auto V"
-			],
-			"correctAnswer": "Minecraft"
-		},
-		{
-			"question": "What color are the pigs in the video game \"Angry Birds\"?",
-			"answers": ["Green", "Red", "Yellow", "Blue"],
-			"correctAnswer": "Green"
-		},
-		{
-			"question": "Which of these is not a champion in the video game \"League of Legends\"?",
-			"answers": ["Gang-il", "Ahri", "Teemo", "Ryze"],
-			"correctAnswer": "Gang-il"
-		},
-		{
-			"question": "How many points do the grapes give in the video game \"Pacman\"?",
-			"answers": ["1000", "700", "100", "400"],
-			"correctAnswer": "1000"
-		},
-		{
-			"question": "What is the name of the main character in the video game \"The Legend of Zelda\"?",
-			"answers": ["Link", "Zelda", "Ganon", "Ganondorf"],
-			"correctAnswer": "Link"
-		}
-	],
+		
+			{
+			  "question": "¿Por qué se llama Puyo la ciudad capital de la provincia de Pastaza?",
+			  "answers": [
+				"Porque Puyo significa en Kichwa 'Neblina'",
+				"Porque Puyo es el nombre de un río cercano",
+				"Porque Puyo fue el nombre del primer gobernador",
+				"Porque Puyo significa 'Río' en Shuar"
+			  ],
+			  "correctAnswer": "Porque Puyo significa en Kichwa 'Neblina'"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana es conocida como 'La Capital de la Biodiversidad'?",
+			  "answers": [
+				"Tena",
+				"Macas",
+				"Puyo",
+				"Coca"
+			  ],
+			  "correctAnswer": "Tena"
+			},
+			{
+			  "question": "¿Cuál es la principal actividad económica de la ciudad de Coca?",
+			  "answers": [
+				"Turismo",
+				"Agricultura",
+				"Extracción de petróleo",
+				"Pesca"
+			  ],
+			  "correctAnswer": "Extracción de petróleo"
+			},
+			{
+			  "question": "¿En qué provincia de la Amazonía ecuatoriana se encuentra la ciudad de Macas?",
+			  "answers": [
+				"Pastaza",
+				"Morona Santiago",
+				"Napo",
+				"Orellana"
+			  ],
+			  "correctAnswer": "Morona Santiago"
+			},
+			{
+			  "question": "¿Cuál es el río que pasa por la ciudad de Tena?",
+			  "answers": [
+				"Río Napo",
+				"Río Pastaza",
+				"Río Putumayo",
+				"Río Aguarico"
+			  ],
+			  "correctAnswer": "Río Napo"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana es conocida por sus aguas termales?",
+			  "answers": [
+				"Baños",
+				"Puyo",
+				"Papallacta",
+				"Tena"
+			  ],
+			  "correctAnswer": "Papallacta"
+			},
+			{
+			  "question": "¿Cuál es la ciudad más grande de la provincia de Sucumbíos?",
+			  "answers": [
+				"Nueva Loja (Lago Agrio)",
+				"Coca",
+				"Tena",
+				"Puyo"
+			  ],
+			  "correctAnswer": "Nueva Loja (Lago Agrio)"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana es conocida por la fiesta de la chonta?",
+			  "answers": [
+				"Archidona",
+				"Macas",
+				"Coca",
+				"Zamora"
+			  ],
+			  "correctAnswer": "Archidona"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana tiene un zoológico llamado 'El Arca'?",
+			  "answers": [
+				"Tena",
+				"Puyo",
+				"Macas",
+				"Nueva Loja"
+			  ],
+			  "correctAnswer": "Tena"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica es conocida como la 'Puerta de la Amazonía'?",
+			  "answers": [
+				"Macas",
+				"Puyo",
+				"Tena",
+				"Coca"
+			  ],
+			  "correctAnswer": "Macas"
+			},
+			{
+			  "question": "¿Cuál es la principal festividad de la ciudad de Macas?",
+			  "answers": [
+				"Fiesta de la Chonta",
+				"Fiesta de la Canelazo",
+				"Fiesta de la Guayusa",
+				"Fiesta de la Yuca"
+			  ],
+			  "correctAnswer": "Fiesta de la Chonta"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana está cerca del Parque Nacional Yasuní?",
+			  "answers": [
+				"Coca",
+				"Macas",
+				"Puyo",
+				"Tena"
+			  ],
+			  "correctAnswer": "Coca"
+			},
+			{
+			  "question": "¿Cuál es el nombre del aeropuerto de la ciudad de Puyo?",
+			  "answers": [
+				"Aeropuerto General Rivadeneira",
+				"Aeropuerto Río Amazonas",
+				"Aeropuerto Edmundo Carvajal",
+				"Aeropuerto Jumandy"
+			  ],
+			  "correctAnswer": "Aeropuerto Edmundo Carvajal"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana es conocida por su producción de cacao?",
+			  "answers": [
+				"Nueva Loja",
+				"Macas",
+				"Tena",
+				"Zamora"
+			  ],
+			  "correctAnswer": "Zamora"
+			},
+			{
+			  "question": "¿En qué ciudad de la Amazonía ecuatoriana se encuentra la cascada San Rafael?",
+			  "answers": [
+				"Tena",
+				"Puyo",
+				"Macas",
+				"Nueva Loja"
+			  ],
+			  "correctAnswer": "Nueva Loja"
+			}
+		  ],
+		  
 	"Art": [
 		{
-			"question": "Who painted the famous artwork \"The Starry Night\"?",
+			"question": "¿Cuál de las siguientes ciudades de Galápagos es conocida por su bahía que alberga leones marinos?",
 			"answers": [
-				"Vincent van Gogh",
-				"Leonardo da Vinci",
-				"Pablo Picasso",
-				"Michelangelo"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Vincent van Gogh"
+			"correctAnswer": "Puerto Baquerizo Moreno"
 		},
 		{
-			"question": "Which sculptor made the famous sculpture \"David?\"?",
+			"question": "¿Cuál de las siguientes ciudades de Galápagos es la puerta de entrada principal para turistas?",
 			"answers": [
-				"Michelangelo",
-				"Donatello",
-				"Leonardo da Vinci",
-				"Raphael"
+				"Puerto Villamil",
+				"Puerto Ayora",
+				"Puerto Chino",
+				"Puerto Baquerizo Moreno"
 			],
-			"correctAnswer": "Michelangelo"
+			"correctAnswer": "Puerto Ayora"
 		},
 		{
-			"question": "What is the best-selling album in history?",
+			"question": "¿En cuál de las siguientes ciudades se encuentra la Estación Científica Charles Darwin?",
 			"answers": [
-				"Thriller",
-				"Back in Black",
-				"The Dark Side of the Moon",
-				"Bat Out of Hell"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Thriller"
+			"correctAnswer": "Puerto Ayora"
 		},
 		{
-			"question": "How many strings does a guitar have?",
-			"answers": ["Six", "Four", "Twelve", "Eight"],
-			"correctAnswer": "Six"
-		},
-		{
-			"question": "What is the name of the famous statue that depicts the Greek goddess of love and beauty?",
+			"question": "¿Cuál de las siguientes ciudades es la capital administrativa de Galápagos?",
 			"answers": [
-				"Venus de Milo",
-				"David",
-				"The Thinker",
-				"Laocoön and His Sons"
+				"Puerto Villamil",
+				"Puerto Ayora",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Venus de Milo"
+			"correctAnswer": "Puerto Baquerizo Moreno"
 		},
 		{
-			"question": "What band is the author of the song \"Believer\"?",
+			"question": "¿Cuál de las siguientes ciudades está ubicada en la isla Isabela?",
 			"answers": [
-				"Imagine Dragons",
-				"Coldplay",
-				"Maroon 5",
-				"Linkin Park"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Imagine Dragons"
+			"correctAnswer": "Puerto Villamil"
 		},
 		{
-			"question": "What is the name of the famous Italian artist who painted the ceiling of the Sistine Chapel?",
+			"question": "¿Cuál de las siguientes ciudades es conocida por su tortuga gigante 'Diego'?",
 			"answers": [
-				"Michelangelo",
-				"Leonardo da Vinci",
-				"Raphael",
-				"Sandro Botticelli"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Michelangelo"
+			"correctAnswer": "Puerto Ayora"
 		},
 		{
-			"question": "Who is Don Quixote in love with in the play \"The Ingenious Hidalgo Don Quixote of La Mancha\"?",
-			"answers": ["Dulcinea", "Maritornes", "Antonia", "Fernanda"],
-			"correctAnswer": "Dulcinea"
-		},
-		{
-			"question": "What is the name of the famous ballet composed by Tchaikovsky?",
+			"question": "¿En cuál de las siguientes ciudades puedes visitar el Centro de Crianza Arnaldo Tupiza?",
 			"answers": [
-				"Swan Lake",
-				"The Nutcracker",
-				"Romeo and Juliet",
-				"The Sleeping Beauty"
+				"Puerto Villamil",
+				"Puerto Ayora",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Swan Lake"
+			"correctAnswer": "Puerto Villamil"
 		},
 		{
-			"question": "Who is the author of the famous book \"The Little Prince\"?",
+			"question": "¿Cuál de las siguientes ciudades tiene acceso a la Playa de los Alemanes?",
 			"answers": [
-				"Antoine de Saint-Exupéry",
-				"Jean-Jacques Rousseau",
-				"Voltaire",
-				"Victor Hugo"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "Antoine de Saint-Exupéry"
+			"correctAnswer": "Puerto Ayora"
 		},
 		{
-			"question": "What architectural style is Notre Dame Cathedral?",
-			"answers": ["Gothic", "Baroque", "Renaissance", "Neoclassical"],
-			"correctAnswer": "Gothic"
-		},
-		{
-			"question": "Which famous playwright wrote the play \"Hamlet\"?",
+			"question": "¿Cuál de las siguientes ciudades es famosa por la playa Tortuga Bay?",
 			"answers": [
-				"William Shakespeare",
-				"Tennessee Williams",
-				"Arthur Miller",
-				"Samuel Beckett"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "William Shakespeare"
+			"correctAnswer": "Puerto Ayora"
 		},
 		{
-			"question": "Which famous novel by George Orwell tells the story of a society where government surveillance and propaganda control all aspects of people's lives?",
+			"question": "¿En cuál de las siguientes ciudades se encuentra el Centro de Interpretación de Galápagos?",
 			"answers": [
-				"1984",
-				"Animal Farm",
-				"Brave New World",
-				"Fahrenheit 451"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "1984"
+			"correctAnswer": "Puerto Baquerizo Moreno"
 		},
 		{
-			"question": "Who is the author of the 'Harry Potter' book series?",
+			"question": "¿Cuál de las siguientes ciudades está situada en la isla Santa Cruz?",
 			"answers": [
-				"J.K. Rowling",
-				"Stephen King",
-				"George R.R. Martin",
-				"Dan Brown"
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
 			],
-			"correctAnswer": "J.K. Rowling"
+			"correctAnswer": "Puerto Ayora"
 		},
 		{
-			"question": "In music, how many lines does a staff have?",
-			"answers": ["Five", "Four", "Six", "Three"],
-			"correctAnswer": "Five"
+			"question": "¿Cuál de las siguientes ciudades ofrece tours a Los Túneles?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades tiene acceso a la Playa Mann?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Baquerizo Moreno"
+		},
+		{
+			"question": "¿En cuál de las siguientes ciudades puedes encontrar el Muro de las Lágrimas?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades es la más grande de la isla Isabela?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
 		}
 	],
 	"Space": [

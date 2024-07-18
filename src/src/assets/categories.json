@@ -1,9 +1,5 @@
 [
-	{
-		"id": "aa",
-		"name": "Costa",
-		"color": "#e6c642"
-	},
+	
 	{
 		"id": "ab",
 		"name": "Entertainment",
@@ -23,20 +19,5 @@
 		"id": "ae",
 		"name": "Art",
 		"color": "#307de7"
-	},
-	{
-		"id": "af",
-		"name": "Space",
-		"color": "#a656fd"
-	},
-	{
-		"id": "ah",
-		"name": "Science",
-		"color": "#e857ed"
-	},
-	{
-		"id": "ag",
-		"name": "General culture",
-		"color": "#56cfef"
 	}
 ]

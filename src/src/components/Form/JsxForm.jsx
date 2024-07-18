@@ -20,7 +20,7 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 		<>
 			<div className='flex gap-2 sm:gap-5 flex-col'>
 				<fieldset className='p-1'>
-					<legend className='text-lg font-semibold mb-2'>Wilcards</legend>
+					<legend className='text-lg font-semibold mb-2'>Configuraciones</legend>
 					<ul className='flex gap-3 justify-between font-medium'>
 						{
 							WILCARDS.map(({ name, icon, amount }) => (
@@ -36,7 +36,7 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 				</fieldset>
 
 				<fieldset className='p-1 relative'>
-					<legend className='text-lg font-semibold mb-2'>Questions</legend>
+					<legend className='text-lg font-semibold mb-2'>Preguntas</legend>
 
 					<div className="cntr shadow-sm" >
 						<input id="cbx" onClick={handleInputs} defaultChecked={!nowQueries.infinitymode} type="checkbox" name="infinitymode" className='w-5 h-5 absolute top-[2px] left-[2px]' />
@@ -53,7 +53,7 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 				</fieldset>
 
 				<fieldset className='p-1 relative'>
-					<legend className='text-lg font-semibold mb-2'>Time</legend>
+					<legend className='text-lg font-semibold mb-2'>Tiempo</legend>
 
 					<div className="cntr shadow-sm !left-14" >
 						<input id="cbx2" onClick={handleInputs} defaultChecked={nowQueries.timemode} type="checkbox" name="timemode" className='w-5 h-5 absolute top-[2px] left-[2px]' />
@@ -72,7 +72,7 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 			</div>
 
 			<fieldset>
-				<legend className='text-lg font-semibold mb-2 mx-1'>Categories</legend>
+				<legend className='text-lg font-semibold mb-2 mx-1'>Regiones</legend>
 
 				<div className='grid grid-cols-4 sm:grid-cols-2 gap-2 h-full'>
 					{categoriesJSON.map(category => (

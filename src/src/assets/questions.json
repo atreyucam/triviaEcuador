@@ -107,6 +107,108 @@
 		}
 	],
 	"Entertainment": [
+<<<<<<< HEAD
+		{
+			"question": "Por qué el Lucho es rico?",
+			"answers": ["Pennywise", "Bozo", "Krusty", "Joker"],
+			"correctAnswer": "Pennywise"
+		},
+		{
+			"question": "What is the name of the fictional continent where the events of the TV series \"Game of Thrones\" take place?",
+			"answers": ["Westeros", "Essos", "Sothoryos", "Ulthos"],
+			"correctAnswer": "Westeros"
+		},
+		{
+			"question": "Who played the role of Batman in the 2008 movie \"The Dark Knight\"?",
+			"answers": [
+				"Christian Bale",
+				"Ben Affleck",
+				"George Clooney",
+				"Val Kilmer"
+			],
+			"correctAnswer": "Christian Bale"
+		},
+		{
+			"question": "What is the name of the fairy in the Disney movie \"Peter Pan\"?",
+			"answers": ["Tinker Bell", "Wendy", "Vidia", "Navi"],
+			"correctAnswer": "Tinker Bell"
+		},
+		{
+			"question": "What is the name of the tiger that appears in the movie \"Life of Pi\"?",
+			"answers": ["Richard Parker", "Tony", "Shere Khan", "Pi Patel"],
+			"correctAnswer": "Richard Parker"
+		},
+		{
+			"question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
+			"answers": [
+				"Gabriel García Márquez",
+				"Jorge Luis Borges",
+				"Isabel Allende",
+				"Octavio Paz"
+			],
+			"correctAnswer": "Gabriel García Márquez"
+		},
+		{
+			"question": "Which of these is not a race or species in the video game \"World of Warcraft\"?",
+			"answers": ["Kokiri", "Undead", "Huargen", "Troll"],
+			"correctAnswer": "Kokiri"
+		},
+		{
+			"question": "How does Alice wane for the first time in the Disney movie \"Alice in Wonderland\"?",
+			"answers": [
+				"She drinks a potion",
+				"She eats a cake",
+				"She falls down a hole",
+				"She walks through a mirror"
+			],
+			"correctAnswer": "She drinks a potion"
+		},
+		{
+			"question": "Who is the owner of Garfield in the comic strip \"Garfield\"?",
+			"answers": ["Jon Arbuckle", "Odie", "Nermal", "Liz Wilson"],
+			"correctAnswer": "Jon Arbuckle"
+		},
+		{
+			"question": "In which of these animes does the main character carry his sister in a box?",
+			"answers": [
+				"Kimetsu no Yaiba",
+				"Elfen Lied",
+				"Code Geass",
+				"Made in Abyss"
+			],
+			"correctAnswer": "Kimetsu no Yaiba"
+		},
+		{
+			"question": "Where is the weak point of the titans in the anime \"Attack on Titan\"?",
+			"answers": ["Nape", "Head", "Heart", "Back"],
+			"correctAnswer": "Nape"
+		},
+		{
+			"question": "How many puppies does Perdita give birth to in the Disney movie \"101 Dalmatians\"?",
+			"answers": ["15", "101", "99", "8"],
+			"correctAnswer": "15"
+		},
+		{
+			"question": "How many dragon balls are there in the anime \"Dragon Ball\"?",
+			"answers": ["7", "8", "6", "12"],
+			"correctAnswer": "7"
+		},
+		{
+			"question": "In which of these movies are there aliens?",
+			"answers": [
+				"The Great Wall",
+				"Big Heroes 6",
+				"Duplicity",
+				"Braveheart"
+			],
+			"correctAnswer": "The Great Wall"
+		},
+		{
+			"question": "What is the name of Misa Amane's shinigami in the anime \"Death Note\"?",
+			"answers": ["Rem", "Ryuk", "Sidoh", "Gelus"],
+			"correctAnswer": "Rem"
+		}
+=======
 		
 			{
 				"question": "¿Cuál es la ciudad más grande en la región Costa de Ecuador?",
@@ -185,6 +287,7 @@
 			}
 		
 		
+>>>>>>> 9ee26ebaa90a7109657aeb6f5fb2fe0bc2810bcb
 	],
 	"Geography": [
 		{
@@ -416,102 +519,159 @@
 		}
 	],
 	"Technology": [
-		{
-			"question": "Which company developed the programming language Java?",
-			"answers": ["Sun Microsystems", "Microsoft", "Apple", "IBM"],
-			"correctAnswer": "Sun Microsystems"
-		},
-		{
-			"question": "How many bits is a byte?",
-			"answers": ["8", "4", "16", "32"],
-			"correctAnswer": "8"
-		},
-		{
-			"question": "How many megabytes is a gigabyte?",
-			"answers": [
-				"1024",
-				"1000",
-				"100",
-				"Depends on the size of the file"
-			],
-			"correctAnswer": "1024"
-		},
-		{
-			"question": "What is the name of the open-source operating system based on the Linux kernel?",
-			"answers": ["Ubuntu", "Windows", "macOS", "Android"],
-			"correctAnswer": "Ubuntu"
-		},
-		{
-			"question": "What is the name of the first computer?",
-			"answers": ["ENIAC", "UNIVAC I", "Z1", "Colossus"],
-			"correctAnswer": "ENIAC"
-		},
-		{
-			"question": "What is the name of the web browser developed by Google?",
-			"answers": ["Chrome", "Firefox", "Safari", "Opera"],
-			"correctAnswer": "Chrome"
-		},
-		{
-			"question": "What is the name of the programming language used to create web pages?",
-			"answers": ["JavaScript", "CSS", "PhP", "Python"],
-			"correctAnswer": "JavaScript"
-		},
-		{
-			"question": "The \".WAV\" is a format of?",
-			"answers": ["Audio", "Video", "Image", "Document"],
-			"correctAnswer": "Audio"
-		},
-		{
-			"question": "What is the name of the first computer virus?",
-			"answers": ["Creeper", "Elk Cloner", "Rabbit", "Stoned"],
-			"correctAnswer": "Creeper"
-		},
-		{
-			"question": "How many laws of robotics (or Asimov's laws) are there?",
-			"answers": ["3", "4", "2", "6"],
-			"correctAnswer": "3"
-		},
-		{
-			"question": "What is the name of the first video game console?",
-			"answers": [
-				"Magnavox Odyssey",
-				"Atari 2600",
-				"Nintendo Entertainment System",
-				"Sega Genesis"
-			],
-			"correctAnswer": "Magnavox Odyssey"
-		},
-		{
-			"question": "What is the best-selling video game in history?",
-			"answers": [
-				"Minecraft",
-				"Tetris",
-				"Wii Sports",
-				"Grand Theft Auto V"
-			],
-			"correctAnswer": "Minecraft"
-		},
-		{
-			"question": "What color are the pigs in the video game \"Angry Birds\"?",
-			"answers": ["Green", "Red", "Yellow", "Blue"],
-			"correctAnswer": "Green"
-		},
-		{
-			"question": "Which of these is not a champion in the video game \"League of Legends\"?",
-			"answers": ["Gang-il", "Ahri", "Teemo", "Ryze"],
-			"correctAnswer": "Gang-il"
-		},
-		{
-			"question": "How many points do the grapes give in the video game \"Pacman\"?",
-			"answers": ["1000", "700", "100", "400"],
-			"correctAnswer": "1000"
-		},
-		{
-			"question": "What is the name of the main character in the video game \"The Legend of Zelda\"?",
-			"answers": ["Link", "Zelda", "Ganon", "Ganondorf"],
-			"correctAnswer": "Link"
-		}
-	],
+		
+			{
+			  "question": "¿Por qué se llama Puyo la ciudad capital de la provincia de Pastaza?",
+			  "answers": [
+				"Porque Puyo significa en Kichwa 'Neblina'",
+				"Porque Puyo es el nombre de un río cercano",
+				"Porque Puyo fue el nombre del primer gobernador",
+				"Porque Puyo significa 'Río' en Shuar"
+			  ],
+			  "correctAnswer": "Porque Puyo significa en Kichwa 'Neblina'"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana es conocida como 'La Capital de la Biodiversidad'?",
+			  "answers": [
+				"Tena",
+				"Macas",
+				"Puyo",
+				"Coca"
+			  ],
+			  "correctAnswer": "Tena"
+			},
+			{
+			  "question": "¿Cuál es la principal actividad económica de la ciudad de Coca?",
+			  "answers": [
+				"Turismo",
+				"Agricultura",
+				"Extracción de petróleo",
+				"Pesca"
+			  ],
+			  "correctAnswer": "Extracción de petróleo"
+			},
+			{
+			  "question": "¿En qué provincia de la Amazonía ecuatoriana se encuentra la ciudad de Macas?",
+			  "answers": [
+				"Pastaza",
+				"Morona Santiago",
+				"Napo",
+				"Orellana"
+			  ],
+			  "correctAnswer": "Morona Santiago"
+			},
+			{
+			  "question": "¿Cuál es el río que pasa por la ciudad de Tena?",
+			  "answers": [
+				"Río Napo",
+				"Río Pastaza",
+				"Río Putumayo",
+				"Río Aguarico"
+			  ],
+			  "correctAnswer": "Río Napo"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana es conocida por sus aguas termales?",
+			  "answers": [
+				"Baños",
+				"Puyo",
+				"Papallacta",
+				"Tena"
+			  ],
+			  "correctAnswer": "Papallacta"
+			},
+			{
+			  "question": "¿Cuál es la ciudad más grande de la provincia de Sucumbíos?",
+			  "answers": [
+				"Nueva Loja (Lago Agrio)",
+				"Coca",
+				"Tena",
+				"Puyo"
+			  ],
+			  "correctAnswer": "Nueva Loja (Lago Agrio)"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana es conocida por la fiesta de la chonta?",
+			  "answers": [
+				"Archidona",
+				"Macas",
+				"Coca",
+				"Zamora"
+			  ],
+			  "correctAnswer": "Archidona"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana tiene un zoológico llamado 'El Arca'?",
+			  "answers": [
+				"Tena",
+				"Puyo",
+				"Macas",
+				"Nueva Loja"
+			  ],
+			  "correctAnswer": "Tena"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica es conocida como la 'Puerta de la Amazonía'?",
+			  "answers": [
+				"Macas",
+				"Puyo",
+				"Tena",
+				"Coca"
+			  ],
+			  "correctAnswer": "Macas"
+			},
+			{
+			  "question": "¿Cuál es la principal festividad de la ciudad de Macas?",
+			  "answers": [
+				"Fiesta de la Chonta",
+				"Fiesta de la Canelazo",
+				"Fiesta de la Guayusa",
+				"Fiesta de la Yuca"
+			  ],
+			  "correctAnswer": "Fiesta de la Chonta"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana está cerca del Parque Nacional Yasuní?",
+			  "answers": [
+				"Coca",
+				"Macas",
+				"Puyo",
+				"Tena"
+			  ],
+			  "correctAnswer": "Coca"
+			},
+			{
+			  "question": "¿Cuál es el nombre del aeropuerto de la ciudad de Puyo?",
+			  "answers": [
+				"Aeropuerto General Rivadeneira",
+				"Aeropuerto Río Amazonas",
+				"Aeropuerto Edmundo Carvajal",
+				"Aeropuerto Jumandy"
+			  ],
+			  "correctAnswer": "Aeropuerto Edmundo Carvajal"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana es conocida por su producción de cacao?",
+			  "answers": [
+				"Nueva Loja",
+				"Macas",
+				"Tena",
+				"Zamora"
+			  ],
+			  "correctAnswer": "Zamora"
+			},
+			{
+			  "question": "¿En qué ciudad de la Amazonía ecuatoriana se encuentra la cascada San Rafael?",
+			  "answers": [
+				"Tena",
+				"Puyo",
+				"Macas",
+				"Nueva Loja"
+			  ],
+			  "correctAnswer": "Nueva Loja"
+			}
+		  ],
+		  
 	"Art": [
 		{
 			"question": "¿Cuál de las siguientes ciudades de Galápagos es conocida por su bahía que alberga leones marinos?",

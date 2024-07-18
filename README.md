@@ -6,7 +6,7 @@
 <br/>
 <br />
 
-# 🟥🟦🟩Trivia Ecuador 🟨🟦🟥
+# 🟨🟦🟥Trivia Ecuador 🟨🟦🟥
 
 Un juego de trivia donde el jugador desubrira las diferentes ciudades del ecuador.
 

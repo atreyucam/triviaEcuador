@@ -107,106 +107,84 @@
 		}
 	],
 	"Entertainment": [
-		{
-			"question": "What is the name of the clown in the movie \"It\"?",
-			"answers": ["Pennywise", "Bozo", "Krusty", "Joker"],
-			"correctAnswer": "Pennywise"
-		},
-		{
-			"question": "What is the name of the fictional continent where the events of the TV series \"Game of Thrones\" take place?",
-			"answers": ["Westeros", "Essos", "Sothoryos", "Ulthos"],
-			"correctAnswer": "Westeros"
-		},
-		{
-			"question": "Who played the role of Batman in the 2008 movie \"The Dark Knight\"?",
-			"answers": [
-				"Christian Bale",
-				"Ben Affleck",
-				"George Clooney",
-				"Val Kilmer"
-			],
-			"correctAnswer": "Christian Bale"
-		},
-		{
-			"question": "What is the name of the fairy in the Disney movie \"Peter Pan\"?",
-			"answers": ["Tinker Bell", "Wendy", "Vidia", "Navi"],
-			"correctAnswer": "Tinker Bell"
-		},
-		{
-			"question": "What is the name of the tiger that appears in the movie \"Life of Pi\"?",
-			"answers": ["Richard Parker", "Tony", "Shere Khan", "Pi Patel"],
-			"correctAnswer": "Richard Parker"
-		},
-		{
-			"question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
-			"answers": [
-				"Gabriel García Márquez",
-				"Jorge Luis Borges",
-				"Isabel Allende",
-				"Octavio Paz"
-			],
-			"correctAnswer": "Gabriel García Márquez"
-		},
-		{
-			"question": "Which of these is not a race or species in the video game \"World of Warcraft\"?",
-			"answers": ["Kokiri", "Undead", "Huargen", "Troll"],
-			"correctAnswer": "Kokiri"
-		},
-		{
-			"question": "How does Alice wane for the first time in the Disney movie \"Alice in Wonderland\"?",
-			"answers": [
-				"She drinks a potion",
-				"She eats a cake",
-				"She falls down a hole",
-				"She walks through a mirror"
-			],
-			"correctAnswer": "She drinks a potion"
-		},
-		{
-			"question": "Who is the owner of Garfield in the comic strip \"Garfield\"?",
-			"answers": ["Jon Arbuckle", "Odie", "Nermal", "Liz Wilson"],
-			"correctAnswer": "Jon Arbuckle"
-		},
-		{
-			"question": "In which of these animes does the main character carry his sister in a box?",
-			"answers": [
-				"Kimetsu no Yaiba",
-				"Elfen Lied",
-				"Code Geass",
-				"Made in Abyss"
-			],
-			"correctAnswer": "Kimetsu no Yaiba"
-		},
-		{
-			"question": "Where is the weak point of the titans in the anime \"Attack on Titan\"?",
-			"answers": ["Nape", "Head", "Heart", "Back"],
-			"correctAnswer": "Nape"
-		},
-		{
-			"question": "How many puppies does Perdita give birth to in the Disney movie \"101 Dalmatians\"?",
-			"answers": ["15", "101", "99", "8"],
-			"correctAnswer": "15"
-		},
-		{
-			"question": "How many dragon balls are there in the anime \"Dragon Ball\"?",
-			"answers": ["7", "8", "6", "12"],
-			"correctAnswer": "7"
-		},
-		{
-			"question": "In which of these movies are there aliens?",
-			"answers": [
-				"The Great Wall",
-				"Big Heroes 6",
-				"Duplicity",
-				"Braveheart"
-			],
-			"correctAnswer": "The Great Wall"
-		},
-		{
-			"question": "What is the name of Misa Amane's shinigami in the anime \"Death Note\"?",
-			"answers": ["Rem", "Ryuk", "Sidoh", "Gelus"],
-			"correctAnswer": "Rem"
-		}
+		
+			{
+				"question": "¿Cuál es la ciudad más grande en la región Costa de Ecuador?",
+				"answers": ["Guayaquil", "Manta", "Portoviejo", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Cuál es el puerto más importante de la región Costa?",
+				"answers": ["Puerto de Guayaquil", "Puerto de Manta", "Puerto de Esmeraldas", "Puerto de Machala"],
+				"correctAnswer": "Puerto de Guayaquil"
+			},
+			{
+				"question": "¿Cuál es la playa más conocida en la región Costa de Ecuador?",
+				"answers": ["Salinas", "Montañita", "Atacames", "Bahía de Caráquez"],
+				"correctAnswer": "Salinas"
+			},
+			{
+				"question": "¿Qué ciudad es conocida como la 'Capital Banquera del Ecuador'?",
+				"answers": ["Guayaquil", "Quito", "Cuenca", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Qué provincia de la región Costa es conocida por su producción de cacao?",
+				"answers": ["Los Ríos", "Guayas", "Manabí", "Esmeraldas"],
+				"correctAnswer": "Los Ríos"
+			},
+			{
+				"question": "¿En qué ciudad se encuentra el malecón 2000?",
+				"answers": ["Guayaquil", "Manta", "Portoviejo", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Cuál es el principal río que atraviesa la ciudad de Guayaquil?",
+				"answers": ["Río Guayas", "Río Daule", "Río Babahoyo", "Río Esmeraldas"],
+				"correctAnswer": "Río Guayas"
+			},
+			{
+				"question": "¿Qué ciudad es famosa por su Carnaval en la región Costa?",
+				"answers": ["Salinas", "Guayaquil", "Manta", "Esmeraldas"],
+				"correctAnswer": "Salinas"
+			},
+			{
+				"question": "¿Cuál es la ciudad conocida por su producción de camarón en la región Costa?",
+				"answers": ["Machala", "Guayaquil", "Manta", "Portoviejo"],
+				"correctAnswer": "Machala"
+			},
+			{
+				"question": "¿Qué isla turística se encuentra en la región Costa de Ecuador?",
+				"answers": ["Isla de la Plata", "Isla Galápagos", "Isla Santa Cruz", "Isla San Cristóbal"],
+				"correctAnswer": "Isla de la Plata"
+			},
+			{
+				"question": "¿Cuál es la ciudad principal de la provincia de Manabí?",
+				"answers": ["Portoviejo", "Manta", "Chone", "Jipijapa"],
+				"correctAnswer": "Portoviejo"
+			},
+			{
+				"question": "¿Qué ciudad es conocida por su festival de la marimba en la región Costa?",
+				"answers": ["Esmeraldas", "Guayaquil", "Manta", "Machala"],
+				"correctAnswer": "Esmeraldas"
+			},
+			{
+				"question": "¿Cuál es la principal actividad económica de la ciudad de Manta?",
+				"answers": ["Pesca", "Agricultura", "Turismo", "Ganadería"],
+				"correctAnswer": "Pesca"
+			},
+			{
+				"question": "¿Qué ciudad costera es famosa por el surf en Ecuador?",
+				"answers": ["Montañita", "Salinas", "Atacames", "Bahía de Caráquez"],
+				"correctAnswer": "Montañita"
+			},
+			{
+				"question": "¿Cuál es el nombre de la reserva natural en la región Costa conocida por sus manglares?",
+				"answers": ["Reserva Ecológica Manglares Churute", "Parque Nacional Cajas", "Reserva de Producción Faunística Chimborazo", "Parque Nacional Yasuní"],
+				"correctAnswer": "Reserva Ecológica Manglares Churute"
+			}
+		
+		
 	],
 	"Geography": [
 		{

@@ -10,6 +10,7 @@ export default function GameInfo () {
 
 	const mode = queries.timemode && queries.infinitymode ? 'Time | Infinity' : !queries.timemode && !queries.infinitymode ? 'Classic' : queries.timemode ? 'Time' : 'Infinity'
 
+	
 	return (
 		<>
 			<button title={showInfo ? 'Hidden info' : 'Show info'} onClick={() => setShowInfo(showInfo => !showInfo)} className="fixed bottom-4 top left-4 lg:hidden bg-white z-20 rounded-md p-1">
@@ -39,6 +40,7 @@ export default function GameInfo () {
 							className="p-1 rounded"
 							style={{ backgroundColor: cat.color }}
 							src={`/categories-icons/${cat.name.toLowerCase()}.svg`}
+							
 							width={33} height={33}
 						/>
 					})}

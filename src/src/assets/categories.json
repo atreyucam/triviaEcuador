@@ -2,22 +2,30 @@
 	{
 		"id": "ab",
 		"name": "Entertainment",
-		"color": "#fbff00e6"
+		"color": "#4A90E2",
+		"icon": "🏖️"
 		
 	},
 	{
 		"id": "ac",
 		"name": "Technology",
-		"color": "#1bff00c7"
+		"color": "#B8E986",
+		"icon": "⛰️"
 	},
 	{
 		"id": "ad",
 		"name": "Geography",
-		"color": "#ff7b1ede"
+		"color": "#50E3C2",
+		"icon": "🌳"
 	},
 	{
 		"id": "ae",
 		"name": "Art",
-		"color": "#17db8abd"
+		"color": "#F8E71C",
+		"icon": "🐢"
 	}
 ]
+
+
+
+    

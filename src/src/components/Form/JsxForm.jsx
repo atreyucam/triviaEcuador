@@ -5,9 +5,10 @@ import { IoMdInfinite } from 'react-icons/io'
 import { FaHeart } from 'react-icons/fa'
 import fiftyImg from '@/assets/fifty.svg'
 import categoriesJSON from '@/assets/categories.json'
+import Categories from '../Home/Categories'
 import { useBoundStore } from '@/store/useBoundStore'
 
-export default function JsxForm ({ handleInputs, nowQueries }) {
+export default function JsxForm({ handleInputs, nowQueries }) {
 	const { queries } = useBoundStore(state => state)
 
 	const WILCARDS = [
@@ -15,6 +16,33 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 		{ name: 'Delete two wrong questions', icon: <Image src={fiftyImg.src} alt="fifty fifty" width={23} height={23} />, amount: 1 },
 		{ name: 'Lives', icon: <FaHeart color='white' className='text-2xl' />, amount: 1 }
 	]
+
+	const categories = [
+		{
+			id: 1,
+			name: 'Costa',
+			color: '#4A90E2',
+			icon: '🏖️'
+		},
+		{
+			id: 2,
+			name: 'Sierra',
+			color: '#50E3C2',
+			icon: '⛰️'
+		},
+		{
+			id: 3,
+			name: 'Oriente',
+			color: '#B8E986',
+			icon: '🌳'
+		},
+		{
+			id: 4,
+			name: 'Galapagos',
+			color: '#F8E71C',
+			icon: '🐢'
+		}
+	];
 
 	return (
 		<>
@@ -75,7 +103,7 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 				<legend className='text-lg font-semibold mb-2 mx-1'>Regiones</legend>
 
 				<div className='grid grid-cols-4 sm:grid-cols-2 gap-2 h-full'>
-					{categoriesJSON.map(category => (
+					{/* {categoriesJSON.map(category => (
 						<label key={category.id} className="relative cursor-pointer" title={category.name}>
 							<input
 								defaultChecked={queries.categories.includes(category.id)}
@@ -86,7 +114,20 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 
 							<Image className={`absolute transition-all w-full h-full peer-checked:scale-90 p-2 rounded peer-checked:bg-[${category.color}] invert peer-checked:invert-0 peer-checked:bg-[var(--bgColor)] top-0 pointer-events-none peer-checked:outline-2 peer-checked:outline-offset-2 peer-checked:outline outline-[var(--bgColor)]`} src={`/categories-icons/${category.name.toLowerCase()}.svg`} alt={category.name} width={40} height={40} style={{ '--bgColor': category.color }} />
 						</label>
+					))} */}
+
+					{categories.map(category => (
+						<li
+							key={category.id}
+							title={category.name}
+							className={`rounded outline-2 outline outline-offset-2 outline-slate-800 hover:outline-offset-4 outline-[${category.color}] hover:scale-[1.03] transition-transform max-w-xs p-5 flex flex-col gap-1 items-center justify-center shadow-sm`}
+							style={{ backgroundColor: category.color, outlineColor: category.color }}
+						>
+							<div className='text-2xl'>{category.icon}</div>
+							
+						</li>
 					))}
+
 				</div>
 			</fieldset>
 		</>

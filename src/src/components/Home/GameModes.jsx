@@ -9,7 +9,7 @@ function GameModal({ isOpen, onClose, title, content }) {
   return (
     <>
       {isOpen && (
-        <div className='fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center'>
+        <div className='fixed inset-0 z-50 bg-black bg-opacity-50 flex justify-center items-center'>
           <div className='bg-white p-6 rounded border-2 border-green-500 max-w-3xl w-full'>
             <h2 className='text-2xl mb-4 font-bold'>{title}</h2>
             <div className='mb-4'>{content}</div>
@@ -56,9 +56,7 @@ const gameModes = [
             <p>El sistema mostrará una descripción o frase célebre relacionada con una ciudad o provincia de Ecuador.</p>
             
             <div className='flex justify-center mt-4'>
-              <button className='bg-orange-500 text-white text-lg px-6 py-2 rounded'>
-                Jugar
-              </button>
+              
             </div>
           </div>
 		</div>

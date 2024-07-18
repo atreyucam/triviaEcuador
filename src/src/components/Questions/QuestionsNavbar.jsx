@@ -11,8 +11,8 @@ export default function QuestionsNavbar ({ changueCurrent }) {
 		console.log(questions, i, questions[i])
 		let bg = 'bg-slate-600 hover:cursor-auto'
 		if (i + 1 === score) bg = 'bg-white text-blue-500'
-		if (questions[i].userAnswer === 1) bg = 'bg-green-500 !text-white'
-		if (questions[i].userAnswer === -1) bg = 'bg-red-500 !text-white'
+		if (questions[i].userAnswer === 1) bg = 'bg-blue-500 !text-white'
+		if (questions[i].userAnswer === -1) bg = 'bg-blue-500 !text-white'
 		if (questions[i].userAnswer === 2) bg = 'bg-blue-500 !text-white'
 		if (i + 1 <= score) bg += ' cursor-pointer hover:scale-105'
 		if (i + 1 === currentQuestion) bg += ' outline outline-offset-2 hover:outline-offset-4 outline-blue-500'

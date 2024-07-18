@@ -204,14 +204,14 @@
 			"correctAnswer": "Quechua"
 		},
 		{
-			"question": "¿Qué parque nacionales se encuentran en la Sierra?",
+			"question": "¿Qué parque nacional se encuentran en la Sierra?",
 			"answers": [
-				"Parque Nacional Machalilla", 
-				"Parque Nacional Sangay", 
-				"Parque Nacional Cerro Blanco", 
-				"Reserva Ecológica Manglares Churute"
+				"Machalilla", 
+				"Sangay", 
+				"Cerro Blanco", 
+				"Churute"
 			],
-			"correctAnswer": "Parque Nacional Sangay"
+			"correctAnswer": "Sangay"
 		},
 
 		{
@@ -276,7 +276,7 @@
 		},
 		{
 			"question": "¿Qué recurso es esencial para la agricultura en la Sierra?",
-			"answers": ["Abono", "agua de deshielo", "Papel", "Gasolina"],
+			"answers": ["Abono", "Agua de deshielo", "Papel", "Gasolina"],
 			"correctAnswer": "Agua de deshielo"
 		}
 	],

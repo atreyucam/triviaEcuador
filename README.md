@@ -50,3 +50,7 @@ npm install
 ```sh
 npm run dev
 ```
+5. Para poder ejecutar electron o modo desktop 
+```sh
+npm run dev:electron
+```

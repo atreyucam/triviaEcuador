@@ -10,7 +10,7 @@ export default function Main () {
 	return (
 		<>
 			<Head>
-				<title>Acertijo</title>
+				<title>Trivia Ecuador</title>
 			</Head>
 			<MainHome />
 			<GameModes />

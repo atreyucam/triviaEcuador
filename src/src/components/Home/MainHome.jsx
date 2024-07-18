@@ -32,7 +32,7 @@ export default function MainHome () {
 				</p>
 			</article>
 			<button onClick={handlePlay} id='play' href="play" className='btn-primary uppercase px-6 py-4 text-lg max-w-md w-full mx-auto mt-10' >
-				Jugar
+				Play
 			</button>
 			<PageFooter />
 		</main >

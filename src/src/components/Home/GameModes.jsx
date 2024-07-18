@@ -203,7 +203,7 @@ export default function GameModes() {
   };
 
   return (
-    <section className='lg:max-w-6xl mx-auto lg:col-start-1 lg:col-end-2 px-8 py-6 flex flex-col justify-center bg-[url("/bg-gamemodes.svg")] text-slate-900 w-full'>
+    <section className='lg:max-w-6xl mx-auto lg:col-start-1 lg:col-end-2 px-8 py-6 flex flex-col justify-center bg-gradient-to-r from-yellow-400 via-blue-500 to-red-500 text-slate-900 w-full'>
       <h2 className='text-2xl mb-4 font-medium'>Parámetros del Juego</h2>
       <nav>
         <ul className='flex flex-col sm:flex-row justify-center gap-5'>
